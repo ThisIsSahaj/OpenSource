@@ -10,3 +10,6 @@
 
 ### The Cyborgs
 - linkedin : [View](https://www.linkedin.com/company/thecyborgs)
+
+### Krishnsaa
+- linkedin : [View](https://www.linkedin.com/in/krishnsaa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )
