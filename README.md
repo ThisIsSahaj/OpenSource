@@ -13,8 +13,18 @@
 
 
 
+### Gaurav
+- linkedin : [View](https://www.linkedin.com/in/this-is-gaurav-jain/)
+
+
+
 ### Krishnsaa
 - linkedin : [View](https://www.linkedin.com/in/krishnsaa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )
+
+### Sahaj
+- linkedin : [View](https://www.linkedin.com/this-is-sahaj-jain)
+
+
 
 ### Shaurya
 - linkedin : [View](https://www.linkedin.com/in/this-is-shaurya-upadhyay)
@@ -23,6 +33,8 @@
 - linkedin : [View](https://www.linkedin.com/in/arpitgarg5689)
 
 
+
 ### Devang
 - linkedin : [View](https://www.linkedin.com/in/devang-jain-820421281/ )
+
 
